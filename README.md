@@ -1,7 +1,5 @@
 ## bensatlantik
 
-Linux and Open-Source Software Advocate
+Linux and Open-Source Software Advocate / Contributor
 
-Rust Starter Projects 
-
-Create Rust Libraries - crates.io
+Creating Rust Libraries - crates.io
