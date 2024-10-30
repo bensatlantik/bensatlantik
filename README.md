@@ -2,6 +2,6 @@
 
 Linux and Open-Source Software Advocate
 
-Rust Projects 
+Rust Starter Projects 
 
 Create Rust Libraries - crates.io
