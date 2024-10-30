@@ -2,4 +2,4 @@
 
 Linux and Open-Source Software Advocate / Contributor
 
-Creating Rust Libraries - crates.io
+Creating Rust Projects and Rust Libraries - GitHub and crates.io
